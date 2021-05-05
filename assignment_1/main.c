@@ -11,7 +11,7 @@ int main() {
     return 0;    
 
 #Patricia was here! HAHAHAHAHAHA I DID IT!
-# Added the Bee Movie script for your entertainment 
+# Added the Bee Movie script, it will print when the code runs 
 print(" 
 		According to all known laws
 		of aviation,
