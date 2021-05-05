@@ -10,7 +10,7 @@ int main() {
     printf("The average of 1, 2, 3 and 4 is: %.4f\n", result);
     return 0;    
 
-print("Patricia was here! HAHAHAHAHAHA I DID IT!")
+#Patricia was here! HAHAHAHAHAHA I DID IT!
 
 print(" 
 		According to all known laws
